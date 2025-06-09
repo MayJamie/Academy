@@ -1,5 +1,0 @@
-# @format
-
-packages:
-    - 'apps/*'
-    - 'packages/*'
