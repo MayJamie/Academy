@@ -1,0 +1,79 @@
+<svg id="e2ndl8BMAq31" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 1600 900" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style>
+        <![CDATA[
+        #e2ndl8BMAq33_ts {
+            animation: e2ndl8BMAq33_ts__ts 3000ms linear infinite alternate forwards
+        }
+
+        @keyframes e2ndl8BMAq33_ts__ts {
+            0% {
+                transform: translate(931.204865px, 352.50119px) scale(1, 1);
+                animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1)
+            }
+
+            100% {
+                transform: translate(931.204865px, 352.50119px) scale(1.03, 1.03)
+            }
+        }
+        ]]>
+    </style>
+    <defs>
+        <linearGradient id="e2ndl8BMAq35-stroke" x1="0" y1="1" x2="0" y2="0" spreadMethod="pad"
+            gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+            <stop id="e2ndl8BMAq35-stroke-0" offset="0%" stop-color="#b42b44" />
+            <stop id="e2ndl8BMAq35-stroke-1" offset="100%" stop-color="#344b9c" />
+        </linearGradient>
+        <linearGradient id="e2ndl8BMAq36-stroke" x1="0" y1="1" x2="0" y2="0" spreadMethod="pad"
+            gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+            <stop id="e2ndl8BMAq36-stroke-0" offset="0%" stop-color="#b42b44" />
+            <stop id="e2ndl8BMAq36-stroke-1" offset="100%" stop-color="#344b9c" />
+        </linearGradient>
+        <linearGradient id="e2ndl8BMAq37-stroke" x1="0" y1="1" x2="0" y2="0" spreadMethod="pad"
+            gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+            <stop id="e2ndl8BMAq37-stroke-0" offset="0%" stop-color="#b42b44" />
+            <stop id="e2ndl8BMAq37-stroke-1" offset="100%" stop-color="#344b9c" />
+        </linearGradient>
+        <linearGradient id="e2ndl8BMAq39-stroke" x1="-0.041675" y1="0.954519" x2="0.95452" y2="1.041675"
+            spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+            <stop id="e2ndl8BMAq39-stroke-0" offset="0%" stop-color="#b42b44" />
+            <stop id="e2ndl8BMAq39-stroke-1" offset="100%" stop-color="#344b9c" />
+        </linearGradient>
+        <linearGradient id="e2ndl8BMAq310-stroke" x1="-0.041675" y1="0.954519" x2="0.95452" y2="1.041675"
+            spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+            <stop id="e2ndl8BMAq310-stroke-0" offset="0%" stop-color="#b42b44" />
+            <stop id="e2ndl8BMAq310-stroke-1" offset="100%" stop-color="#344b9c" />
+        </linearGradient>
+        <linearGradient id="e2ndl8BMAq311-stroke" x1="-0.041675" y1="0.954519" x2="0.95452" y2="1.041675"
+            spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)">
+            <stop id="e2ndl8BMAq311-stroke-0" offset="0%" stop-color="#b42b44" />
+            <stop id="e2ndl8BMAq311-stroke-1" offset="100%" stop-color="#344b9c" />
+        </linearGradient>
+    </defs>
+    <rect width="1600" height="900" rx="0" ry="0" fill="#fff" />
+    <g id="e2ndl8BMAq33_ts" transform="translate(931.204865,352.50119) scale(1,1)">
+        <g transform="translate(-931.204865,-352.50119)">
+            <g>
+                <path d="M1409,581l41.35-70L1490,581Z"
+                    transform="matrix(1.01061 0.185481-.185481 1.01061 23.7294-226.006)" fill="#fff" fill-opacity="0"
+                    stroke="url(#e2ndl8BMAq35-stroke)" stroke-width="3.3" stroke-miterlimit="10" />
+                <circle r="40" transform="matrix(.989 0.265002-.265002 0.989 533.227607 104.67895)" fill="#fff"
+                    fill-opacity="0" stroke="url(#e2ndl8BMAq36-stroke)" stroke-width="1.1" stroke-miterlimit="10" />
+                <path d="M400.86,735.5h-83.73c0-23.12,18.74-41.87,41.87-41.87s41.86,18.75,41.86,41.87Z"
+                    transform="matrix(-.843813 0.579937-.579937-.843813 1192.45 960.928)" fill="#fff" fill-opacity="0"
+                    stroke="url(#e2ndl8BMAq37-stroke)" stroke-width="3.3" stroke-miterlimit="10" />
+            </g>
+            <g>
+                <path d="M149.8,345.2l-31.4,44.6l31.4,44.6l31.4-44.6Z"
+                    transform="matrix(.949877 0.070588-.070588 0.949877 415.98-27.1676)" fill="#fff" fill-opacity="0"
+                    stroke="url(#e2ndl8BMAq39-stroke)" stroke-miterlimit="10" />
+                <rect width="100" height="100" rx="0" ry="0"
+                    transform="matrix(-.982287 0.187381-.187381-.982287 936.980326 631.747223)" fill="#fff"
+                    fill-opacity="0" stroke="url(#e2ndl8BMAq310-stroke)" stroke-width="2.2" stroke-miterlimit="10" />
+                <path d="M1426.8,132.4l-21.1,36.4h-42l-21-36.4l21-36.4h42Z"
+                    transform="matrix(.841645 0.451286-.451286 0.841645-111.048-537.503)" fill="#fff" fill-opacity="0"
+                    stroke="url(#e2ndl8BMAq311-stroke)" stroke-miterlimit="10" />
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1033 @@
+[
+    {
+        "id": 1,
+        "title": "Security Executive",
+        "description": "The Security Executive performs routine activities in the area of security operations. He/She works within existing security procedures and possesses sufficient knowledge and skills to support the analysis of user requests and compilation of incident reports. He checks for problems in existing systems and modifies simple work processes by following defined procedures, processes and quality standards. He escalates security incidents for further investigation. He is required to be on standby with on-call availability with varied shifts including nights, weekends and holidays. He is vigilant and proactive in monitoring systems and addressing queries or issues that may arise. He enjoys analysing security-related incidents and supporting the development of solutions within a team environment.",
+        "salaryMin": 253000,
+        "salaryMax": 439000,
+        "qualifications": [
+            {
+                "title": "CISM, CRISC, CGEIT, CISSP",
+                "link": ""
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Cyber Incident Management",
+                "rating": 2
+            },
+            {
+                "title": "Cyber Forensics",
+                "rating": 2
+            },
+            {
+                "title": "Infrastructure Support",
+                "rating": 2
+            },
+            {
+                "title": "Network Administration and Maintenance",
+                "rating": 2
+            },
+            {
+                "title": "Problem Management",
+                "rating": 3
+            },
+            {
+                "title": "Security Administration",
+                "rating": 2
+            },
+            {
+                "title": "Security Assessment and Testing",
+                "rating": 2
+            },
+            {
+                "title": "Security Education and Awareness",
+                "rating": 3
+            },
+            {
+                "title": "Threat Intelligence and Detection",
+                "rating": 2
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 1
+            },
+            {
+                "title": "Creative Thinking",
+                "rating": 1
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 1
+            },
+            {
+                "title": "Sense Making",
+                "rating": 1
+            },
+            {
+                "title": "Teamwork",
+                "rating": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Associate Security Analyst / Associate Security Engineer",
+        "description": "The Associate Security Analyst/Associate Security Engineer supports security systems and operations administration, monitoring and maintenance. He/She monitors security alerts and events. He collects and documents contextual information based on established practices and supports the preparation and publishing of security advisories. He assists with the analysis of security-related information and events, escalation of incidents for validation and remediation. He is required to be on standby with on-call availability with varied shifts including nights, weekends and holidays. He is alert and vigilant in performing monitoring activities, and is able to analyse and resolve security-related issues critically. He communicates clearly in his interactions with others and coordinates effectively with his team to perform security operations.",
+        "salaryMin": 253000,
+        "salaryMax": 439000,
+        "qualifications": [
+            {
+                "title": "",
+                "link": "https://www.sbcs.edu.tt/academic-body/comptia/"
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Cyber Forensics",
+                "rating": 3
+            },
+            {
+                "title": "Cyber Incident Management",
+                "rating": 3
+            },
+            {
+                "title": "Infrastructure Support",
+                "rating": 3
+            },
+            {
+                "title": "Network Administration and Maintenance",
+                "rating": 3
+            },
+            {
+                "title": "Problem Management",
+                "rating": 3
+            },
+            {
+                "title": "Security Administration",
+                "rating": 3
+            },
+            {
+                "title": "Security Assessment and Testing",
+                "rating": 2
+            },
+            {
+                "title": "Security Education and Awareness",
+                "rating": 3
+            },
+            {
+                "title": "Security Programme Management",
+                "rating": 3
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 2
+            },
+            {
+                "title": "Threat Intelligence and Detection",
+                "rating": 2
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 1
+            },
+            {
+                "title": "Creative Thinking",
+                "rating": 1
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 2
+            },
+            {
+                "title": "Sense Making",
+                "rating": 2
+            },
+            {
+                "title": "Teamwork",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Cyber Risk Analyst",
+        "description": "The Cyber Risk Analyst conducts cyber risk assessment in support of technology initiatives to help identify IT related risk and determines appropriate controls to mitigate risks. He/She monitors, tracks and manages risk mitigations and exceptions and ensures adequate monitoring capability is incorporated into solutions. He applies a defined set of analytical or scientific methods and works independently with guidance in only the most complex situations. He is vigilant and systematic in identifying cyber risks and enjoys analysing and investigating such issues. He is a strong team player, and communicates well both verbally and in writing.",
+        "salaryMin": 253000,
+        "salaryMax": 439000,
+        "qualifications": [
+            {
+                "title": "CISM, CRISC, CISA, CGEIT",
+                "link": "https://www.isaca.org/"
+            },
+            {
+                "title": "Certified Ethical Hacker",
+                "link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Audit and Compliance",
+                "rating": 3
+            },
+            {
+                "title": "Business Needs Analysis",
+                "rating": 3
+            },
+            {
+                "title": "Cyber Incident Management",
+                "rating": 2
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 4
+            },
+            {
+                "title": "Security Administration",
+                "rating": 2
+            },
+            {
+                "title": "Security Governance",
+                "rating": 4
+            },
+            {
+                "title": "Security Programme Management",
+                "rating": 3
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 4
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 3
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 2
+            },
+            {
+                "title": "Computational Thinking",
+                "rating": 1
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 2
+            },
+            {
+                "title": "Sense Making",
+                "rating": 2
+            },
+            {
+                "title": "Teamwork",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Security Penetration Tester",
+        "description": "The Security Penetration Tester designs and performs tests and check cases to determine if infrastructure components, systems and applications meet confidentiality, integrity, authentication, availability, authorisation and non-repudiation standards. He/She translates requirements into test plan, writes and executes test scripts or codes in line with standards and procedures to determine vulnerability to attacks. He certifies infrastructure components, systems and applications that meet security standards. He has a creative and analytical mind, and deploys new and innovative methods to perform penetration tests. He works well in a team and communicates findings and implications effectively to relevant stakeholders.",
+        "salaryMin": 253000,
+        "salaryMax": 439000,
+        "qualifications": [
+            {
+                "title": "",
+                "link": "https://iclass.eccouncil.org/certified-penetration-testing-professional-cpent/"
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Audit and Compliance",
+                "rating": 3
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 4
+            },
+            {
+                "title": "Emerging Technology Synthesis",
+                "rating": 3
+            },
+            {
+                "title": "Security Assessment and Testing",
+                "rating": 4
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 4
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 3
+            },
+            {
+                "title": "Test Planning",
+                "rating": 3
+            },
+            {
+                "title": "Threat Analysis and Defence",
+                "rating": 4
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 2
+            },
+            {
+                "title": "Creative Thinking",
+                "rating": 2
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 2
+            },
+            {
+                "title": "Sense Making",
+                "rating": 2
+            },
+            {
+                "title": "Teamwork",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Security Operations Analyst",
+        "description": "The Security Operations Analyst performs real-time analysis and trending of security log data from various security devices and systems. He/She maintains data sources feeding the log monitoring system, develops and maintains detection and alerting rules. He responds to user incident reports and evaluates the type and severity of security events. He executes initial triage of incidents to rule out false positives. He documents incidents and develops reports. He identifies recurring security issues and risks and develops mitigation plans and recommends process improvements. He interprets and applies security policies and procedures. He is required to be on standby with on-call availability with varied shifts including nights, weekends and holidays. He is diligent and takes an analytical approach to perform real-time analysis. He is skilled in synthesising trends and insights, and is confident in putting forth creative mitigation plans and solutions to security incidents.",
+        "salaryMin": 253000,
+        "salaryMax": 439000,
+        "qualifications": [
+            {
+                "title": "CompTIA Security+",
+                "link": "https://www.comptia.org/certifications/security"
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Audit and Compliance",
+                "rating": 3
+            },
+            {
+                "title": "Business Continuity",
+                "rating": 4
+            },
+            {
+                "title": "Cyber Incident Management",
+                "rating": 4
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 4
+            },
+            {
+                "title": "Disaster Recovery Management",
+                "rating": 4
+            },
+            {
+                "title": "Security Administration",
+                "rating": 4
+            },
+            {
+                "title": "Security Programme Management",
+                "rating": 3
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 4
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 3
+            },
+            {
+                "title": "Threat Analysis and Defence",
+                "rating": 3
+            },
+            {
+                "title": "Threat Intelligence and Detection",
+                "rating": 3
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 2
+            },
+            {
+                "title": "Creative Thinking",
+                "rating": 2
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 2
+            },
+            {
+                "title": "Sense Making",
+                "rating": 2
+            },
+            {
+                "title": "Teamwork",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Incident Investigator / Forensic Investigator / Threat Investigator",
+        "description": "The Incident Investigator/Forensic Investigator/Threat Investigator conducts complex post-incident forensic analysis to investigate causes of intrusion, attack, loss or breach occurring in an organisation. He/She identifies and defines forensic issues and root causes. He develops reports that detail incident timeline, evidence, findings, conclusions and recommendations. He supports the design of a breach notification process after a security incident to minimise damage and downtime when attacks and exploits occur. He selects, tests and deploys security products and collects information about Internet-based criminal activities. He prepares reports, communicates findings to senior stakeholders, and recommends corrective actions to prevent and mitigate internal control failures. He is required to be on standby with on-call availability with varied shifts including nights, weekends and holidays. He is detail-oriented and adopts a critical and systematic approach in conducting investigations and analysis. He views issues from multiple perspectives and actively communicates his thoughts and engages with other team members.",
+        "salaryMin": 253000,
+        "salaryMax": 439000,
+        "qualifications": [],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Cyber Forensics",
+                "rating": 5
+            },
+            {
+                "title": "Cyber Incident Management",
+                "rating": 5
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 4
+            },
+            {
+                "title": "Security Assessment and Testing",
+                "rating": 3
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 4
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 3
+            },
+            {
+                "title": "Threat Analysis and Defence",
+                "rating": 5
+            },
+            {
+                "title": "Threat Intelligence and Detection",
+                "rating": 5
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 2
+            },
+            {
+                "title": "Creative Thinking",
+                "rating": 2
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 2
+            },
+            {
+                "title": "Sense Making",
+                "rating": 2
+            },
+            {
+                "title": "Teamwork",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Security Engineer",
+        "description": "The Security Engineer designs, develops and implements secure system architectures. He/She embeds security principles into the design of system architectures to mitigate the risks posed by new technologies and business practices. He designs artefacts, spanning design, development and implementation, into enterprise systems that describe security principles and how they relate to the overall enterprise system architecture. He performs routine activities related to the periodic review and audit activities of infrastructure security systems and maintains documentation of security standards and procedures. He is structured and systematic in his approach to designing and implementing secure system architectures. He is articulate and works well with his team and other stakeholders to co-create optimal security architectures and systems.",
+        "salaryMin": 253000,
+        "salaryMax": 439000,
+        "qualifications": [],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Business Needs Analysis",
+                "rating": 3
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 4
+            },
+            {
+                "title": "Emerging Technology Synthesis",
+                "rating": 4
+            },
+            {
+                "title": "Infrastructure Design",
+                "rating": 3
+            },
+            {
+                "title": "Security Administration",
+                "rating": 3
+            },
+            {
+                "title": "Security Architecture",
+                "rating": 4
+            },
+            {
+                "title": "Security Programme Management",
+                "rating": 3
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 4
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 4
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 2
+            },
+            {
+                "title": "Computational Thinking",
+                "rating": 2
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 2
+            },
+            {
+                "title": "Sense Making",
+                "rating": 2
+            },
+            {
+                "title": "Teamwork",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Cyber Risk Manager",
+        "description": "The Cyber Risk Manager guides the assessment of information and cyber risks associated with technology initiatives and provides recommendations on control requirements by risk policy and standards. He/She manages and coordinates responses to regulatory inquiries, inspections, audits and monitors remediation of regulatory findings. He oversees the development of reports and implements policies and standards. He manages professional employees and has accountability for the performance and results of a team. He provides security guidance to stakeholders. He has a sharp, analytical mind and is able to anticipate problems and risks to mitigate them ahead of time. He is an excellent communicator who works well with others and promotes a cooperative working environment and relationships within and beyond his team.",
+        "salaryMin": 488000,
+        "salaryMax": 679000,
+        "qualifications": [
+            {
+                "title": "MSc. Operational Cyber Security",
+                "link": "https://www.sbcs.edu.tt/programme/cyber-security/"
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Audit and Compliance",
+                "rating": 5
+            },
+            {
+                "title": "Business Needs Analysis",
+                "rating": 5
+            },
+            {
+                "title": "Cyber Incident Management",
+                "rating": 3
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 6
+            },
+            {
+                "title": "Security Administration",
+                "rating": 3
+            },
+            {
+                "title": "Security Architecture",
+                "rating": 3
+            },
+            {
+                "title": "Security Education and Awareness",
+                "rating": 4
+            },
+            {
+                "title": "Security Governance",
+                "rating": 5
+            },
+            {
+                "title": "Security Programme Management",
+                "rating": 4
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 5
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 5
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 3
+            },
+            {
+                "title": "Developing People",
+                "rating": 3
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 3
+            },
+            {
+                "title": "Sense Making",
+                "rating": 3
+            },
+            {
+                "title": "Teamwork",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Security Penetration Testing Manager",
+        "description": "The Security Penetration Testing Manager plans and oversees the delivery of testing and certification services to determine whether infrastructure components, systems and applications meet confidentiality, integrity, authentication, availability, authorisation and non-repudiation standards. He/She reports on testing outcomes and activities. He provides recommendations and manages stakeholder expectations. He ensures compliance with testing standards, processes and tools and secures appropriate approvals. He develops organisational testing capability and supports knowledge management. He possesses strong analytical and critical thinking abilities to resolve and advise on highly complex issues, and effectively communicates outcomes to relevant stakeholders. He is adept at managing resources and developing his team of penetration testers.",
+        "salaryMin": 488000,
+        "salaryMax": 679000,
+        "qualifications": [
+            {
+                "title": "",
+                "link": "https://www.comptia.org/certifications/pentest"
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Audit and Compliance",
+                "rating": 4
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 5
+            },
+            {
+                "title": "Emerging Technology Synthesis",
+                "rating": 4
+            },
+            {
+                "title": "Security Assessment and Testing",
+                "rating": 5
+            },
+            {
+                "title": "Security Governance",
+                "rating": 5
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 5
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 5
+            },
+            {
+                "title": "Threat Analysis and Defence",
+                "rating": 5
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 3
+            },
+            {
+                "title": "Developing People",
+                "rating": 3
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 3
+            },
+            {
+                "title": "Sense Making",
+                "rating": 3
+            },
+            {
+                "title": "Teamwork",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Security Operations Manager",
+        "description": "The Security Operations Manager plans and oversees monitoring and maintenance of security operations, and provides direction and leadership to internal resources. He/She provides expertise on security technologies and innovative security concepts, and works toward enhancing the resilience of security operations. He coordinates ongoing reviews of existing security programmes, protocols and planned upgrades. He establishes escalation processes for security incidents and develops contingency plans and disaster recovery procedures. He focuses on policy implementation and control. He is diligent and watchful in monitoring security operations, systems and activities. He is also a confident leader who develops plans and solutions to address security incidents and also one who has a passion for engaging and developing others in his team.",
+        "salaryMin": 488000,
+        "salaryMax": 679000,
+        "qualifications": [
+            {
+                "title": "Certified Information Security Manager (CISM), Certified in Risk & Information Systems Control (CRISC),Certified In the Governance of Enterprise IT (CGEIT)",
+                "link": "https://www.isaca.org/"
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Audit and Compliance",
+                "rating": 3
+            },
+            {
+                "title": "Business Continuity",
+                "rating": 4
+            },
+            {
+                "title": "Cyber Incident Management",
+                "rating": 4
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 5
+            },
+            {
+                "title": "Disaster Recovery Management",
+                "rating": 5
+            },
+            {
+                "title": "Emerging Technology Synthesis",
+                "rating": 3
+            },
+            {
+                "title": "Security Administration",
+                "rating": 4
+            },
+            {
+                "title": "Security Education and Awareness",
+                "rating": 4
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 5
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 5
+            },
+            {
+                "title": "Threat Analysis and Defence",
+                "rating": 5
+            },
+            {
+                "title": "Threat Intelligence and Detection",
+                "rating": 5
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 3
+            },
+            {
+                "title": "Developing People",
+                "rating": 3
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 3
+            },
+            {
+                "title": "Sense Making",
+                "rating": 3
+            },
+            {
+                "title": "Teamwork",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Incident Investigation Manager / Forensic Investigation Manager / Threat Investigation Manager",
+        "description": "The Incident Investigation Manager/Forensic Investigation Manager/Threat Investigation Manager plans and oversees the performance of security response via post-incident analysis of intrusion, attack, loss or breach and the identification of root causes. He/She provides guidance on the use of investigation methodology to capture evidence to produce legally defensible results and conclusions. He applies analysis across a variety of data sets to develop knowledge of internal and external information vulnerabilities and to uncover hidden insights, patterns and connections. He proposes mitigation techniques and countermeasures as well as develops cyber security solutions to prevent future attacks. He develops security requirements and standards. He presents threat intelligence reports to senior leaders. He is required to be on standby with oncall availability with varied shifts including nights, weekends and holidays. He thinks strategically and adopts a forward-looking perspective in anticipating threats and planning pre- or post-incident analysis. He is adept at dealing with complexity, and is an articulate and developmental leader in his team.",
+        "salaryMin": 488000,
+        "salaryMax": 679000,
+        "qualifications": [
+            {
+                "title": "Certified Incident Handler",
+                "link": "https://iclass.eccouncil.org/our-courses/certified-incident-handler-ecih/"
+            },
+            {
+                "title": "Offensive Security Qualification",
+                "link": "https://www.offensive-security.com/courses-and-certifications/"
+            },
+            {
+                "title": "Computer Hacking Forensics Investigator",
+                "link": "https://iclass.eccouncil.org/our-courses/computer-hacking-forensic-investigator-chfi/"
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Cyber Forensics",
+                "rating": 6
+            },
+            {
+                "title": "Cyber Incident Management",
+                "rating": 6
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 4
+            },
+            {
+                "title": "Security Assessment and Testing",
+                "rating": 4
+            },
+            {
+                "title": "Security Governance",
+                "rating": 5
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 5
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 5
+            },
+            {
+                "title": "Threat Analysis and Defence",
+                "rating": 6
+            },
+            {
+                "title": "Threat Intelligence and Detection",
+                "rating": 6
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 3
+            },
+            {
+                "title": "Developing People",
+                "rating": 3
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 3
+            },
+            {
+                "title": "Resource Management",
+                "rating": 3
+            },
+            {
+                "title": "Sense Making",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Principal Security Engineer / Principal Security Architect",
+        "description": "The Principal Security Engineer/ Principal Security Architect leads unique and highly complex projects involving design, development and implementation of secure system architectures. He/She plans and monitors the design of artefacts into enterprise systems that describe security principles and how they relate to the overall enterprise system architecture. He has involvement in the development and application of new solutions in infrastructure security. He recommends and leads the adoption of new technological advances and best practices in infrastructure security systems to mitigate security risks. He identifies and resolves unique and complex issues which have organisation-wide and long-term impact. He mentors and provides technical leadership to the junior staff. He has a creative and critical mind, and enjoys identifying linkages and interconnections among various parts of a system or architecture. He is a technical expert who should also be people-oriented, consultative, developmental and actively engaging stakeholders to design optimal secure system architectures.",
+        "salaryMin": 488000,
+        "salaryMax": 679000,
+        "qualifications": [
+            {
+                "title": "Certified Chief Information Security Officer",
+                "link": "https://ciso.eccouncil.org/"
+            },
+            {
+                "title": "CISM, CRISC, CGEIT",
+                "link": "https://www.isaca.org/"
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Business Needs Analysis",
+                "rating": 4
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 5
+            },
+            {
+                "title": "Emerging Technology Synthesis",
+                "rating": 5
+            },
+            {
+                "title": "Infrastructure Design",
+                "rating": 4
+            },
+            {
+                "title": "Security Administration",
+                "rating": 4
+            },
+            {
+                "title": "Security Architecture",
+                "rating": 5
+            },
+            {
+                "title": "Solution Architecture",
+                "rating": 4
+            },
+            {
+                "title": "Security Governance",
+                "rating": 4
+            },
+            {
+                "title": "Security Programme Management",
+                "rating": 4
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 5
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 5
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 3
+            },
+            {
+                "title": "Creative Thinking",
+                "rating": 3
+            },
+            {
+                "title": "Developing People",
+                "rating": 3
+            },
+            {
+                "title": "Problem Solving",
+                "rating": 3
+            },
+            {
+                "title": "Sense Making",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Chief Information Security Officer",
+        "description": "The Chief Information Security Officer develops and drives the vision for the information security function. He/She acts as the authority for the development and enforcement of enterprise security strategy, standards and policies, and has ultimate responsibility for ensuring the protection of corporate information. He guides the design and continuous improvement of the IT security architecture and Cyber Risk Maturity Model that balances business needs with security risks. He advises the board and top executives on all security matters and sets directions for complying with regulatory inquiries, inspections and audits. He is an inspirational and influential leader, who displays sound judgement and decisiveness in ensuring that corporate information is well protected and secured. He is strategic in his approach toward resource management and capability development among his teams.",
+        "salaryMin": 488000,
+        "salaryMax": 797000,
+        "qualifications": [
+            {
+                "title": "CISM, CRISC, CGEIT",
+                "link": "https://www.isaca.org/"
+            },
+            {
+                "title": "Certified Chief Information Security Officer",
+                "link": ""
+            },
+            {
+                "title": "CISSP ",
+                "link": "https://www.isc2.org/Certifications/CISSP"
+            }
+        ],
+        "technicalSkillsAndCompetencies": [
+            {
+                "title": "Audit and Compliance",
+                "rating": 5
+            },
+            {
+                "title": "Business Continuity",
+                "rating": 4
+            },
+            {
+                "title": "Business Needs Analysis",
+                "rating": 5
+            },
+            {
+                "title": "Business Risk Management",
+                "rating": 4
+            },
+            {
+                "title": "Cyber Forensics",
+                "rating": 4
+            },
+            {
+                "title": "Cyber Incident Management",
+                "rating": 4
+            },
+            {
+                "title": "Cyber Risk Management",
+                "rating": 6
+            },
+            {
+                "title": "Disaster Recovery Management",
+                "rating": 6
+            },
+            {
+                "title": "Partnership Management",
+                "rating": 4
+            },
+            {
+                "title": "Security Architecture",
+                "rating": 5
+            },
+            {
+                "title": "Security Assessment and Testing",
+                "rating": 5
+            },
+            {
+                "title": "Security Education and Awareness",
+                "rating": 5
+            },
+            {
+                "title": "Security Governance",
+                "rating": 6
+            },
+            {
+                "title": "Security Programme Management",
+                "rating": 5
+            },
+            {
+                "title": "Security Strategy",
+                "rating": 6
+            },
+            {
+                "title": "Stakeholder Management",
+                "rating": 6
+            },
+            {
+                "title": "Threat Analysis and Defence",
+                "rating": 4
+            },
+            {
+                "title": "Threat Intelligence and Detection",
+                "rating": 4
+            }
+        ],
+        "genericSkillsAndCompetencies": [
+            {
+                "title": "Communication",
+                "rating": 3
+            },
+            {
+                "title": "Leadership",
+                "rating": 3
+            },
+            {
+                "title": "Decision Making",
+                "rating": 3
+            },
+            {
+                "title": "Developing People",
+                "rating": 3
+            },
+            {
+                "title": "Resource Management",
+                "rating": 3
+            }
+        ]
+    }
+]

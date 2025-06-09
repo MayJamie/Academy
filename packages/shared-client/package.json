@@ -1,0 +1,37 @@
+{
+    "name": "shared-client",
+    "version": "0.0.0",
+    "license": "MIT",
+    "main": "./index.ts",
+    "types": "./index.ts",
+    "scripts": {
+        "generate:component": "turbo gen react-component",
+        "lint": "eslint .",
+        "lint:fix": "eslint --fix ."
+    },
+    "dependencies": {
+        "@emotion/cache": "^11.11.0",
+        "@emotion/react": "^11.11.1",
+        "@emotion/server": "^11.11.0",
+        "@emotion/styled": "^11.11.0",
+        "@mui/icons-material": "^5.14.9",
+        "@mui/lab": "5.0.0-alpha.146",
+        "@mui/material": "^5.14.9",
+        "clsx": "^2.0.0",
+        "next": "^13.4.19",
+        "next-themes": "^0.2.1",
+        "react": "^18.2.0",
+        "react-error-boundary": "^4.0.11",
+        "shared-lib": "workspace:*",
+        "shared-types": "workspace:*"
+    },
+    "devDependencies": {
+        "@turbo/gen": "^1.10.12",
+        "@types/node": "^20.5.2",
+        "@types/react": "^18.2.0",
+        "@types/react-dom": "^18.2.0",
+        "eslint-config-custom": "workspace:*",
+        "tsconfig": "workspace:*",
+        "typescript": "^5.0.0"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "ideffect-monorepo",
+    "private": true,
+    "scripts": {
+        "build": "turbo run build",
+        "check-packages": "npx manypkg check",
+        "dev": "turbo run dev",
+        "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+        "lint": "turbo run lint",
+        "lint:fix": "turbo run lint:fix",
+        "prepare": "husky install",
+        "pretty": "npx prettier --write",
+        "pretty:all": "npm run pretty .",
+        "sort-package-json": "npx sort-package-json \"package.json\" \"packages/*/package.json\" \"apps/*/package.json\""
+    },
+    "dependencies": {
+        "@commitlint/cli": "^17.7.1",
+        "@commitlint/config-conventional": "^17.7.0",
+        "@manypkg/cli": "latest",
+        "eslint": "^8.48.0",
+        "husky": "^8.0.3",
+        "lint-staged": "^14.0.1",
+        "prettier": "^3.0.3",
+        "prettier-plugin-organize-imports": "^3.2.2",
+        "tsconfig": "workspace:*",
+        "turbo": "latest"
+    },
+    "packageManager": "pnpm@8.6.10"
+}
