@@ -1,0 +1,17 @@
+{
+    "name": "shared-lib",
+    "version": "0.0.0",
+    "license": "MIT",
+    "main": "./index.ts",
+    "scripts": {
+        "lint": "eslint .",
+        "lint:fix": "eslint --fix ."
+    },
+    "dependencies": {
+        "shared-types": "workspace:*"
+    },
+    "devDependencies": {
+        "eslint-config-custom": "workspace:*",
+        "tsconfig": "workspace:*"
+    }
+}

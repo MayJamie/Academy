@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://careersight.ideffect.com/
+
+# Sitemaps
+Sitemap: https://careersight.ideffect.com/sitemap.xml

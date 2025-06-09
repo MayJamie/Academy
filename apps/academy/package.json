@@ -1,0 +1,35 @@
+{
+    "name": "ideffect-academy",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "build": "next build",
+        "postbuild": "next-sitemap",
+        "dev": "next dev --port 3003",
+        "lint": "next lint",
+        "lint:fix": "npm run lint -- --fix",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@vercel/analytics": "^1.0.2",
+        "clsx": "^2.0.0",
+        "next": "^13.4.19",
+        "next-sitemap": "^4.2.3",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "shared-client": "workspace:*",
+        "shared-lib": "workspace:*",
+        "shared-server": "workspace:*",
+        "sharp": "^0.32.6"
+    },
+    "devDependencies": {
+        "@next/eslint-plugin-next": "^13.4.19",
+        "@types/node": "^20.5.2",
+        "@types/react": "^18.2.0",
+        "@types/react-dom": "^18.2.0",
+        "eslint-config-custom": "workspace:*",
+        "shared-types": "workspace:*",
+        "tsconfig": "workspace:*",
+        "typescript": "^5.0.0"
+    }
+}
